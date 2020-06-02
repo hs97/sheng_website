@@ -17,7 +17,7 @@ resume-external: false
 resume-url: assets/images/HaoyuSheng_CV.pdf
 
 # your url: https://USERNAME.github.io
-# url: https://USERNAME.github.io
+url: https://hs97.github.io/sheng_website/
 # baseurl: /sheng_website
 
 permalink: /:title/
