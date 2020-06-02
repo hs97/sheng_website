@@ -16,11 +16,10 @@ resume: true
 resume-external: false
 resume-url: assets/images/HaoyuSheng_CV.pdf
 
-baseurl: https://hs97.github.io/sheng_website
+url: https://hs97.github.io/sheng_website
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
-relative_permalinks: true
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
