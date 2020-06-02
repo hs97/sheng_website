@@ -142,3 +142,5 @@ exclude:
     "node_modules",
     "vendor",
   ]
+
+theme: jekyll-theme-minimal
