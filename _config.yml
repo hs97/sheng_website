@@ -19,7 +19,7 @@ resume-url: assets/images/HaoyuSheng_CV.pdf
 # your url: https://USERNAME.github.io
 baseurl: /sheng_website
 
-permalink: /:baseurl/title/
+permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -123,8 +123,7 @@ plugins:
   - jekyll-admin
   - jekyll-paginate-v2
 
-jekyll-mentions:
-  base_url: https://github.com
+jekyll-mentions: false
 
 compress_html:
   ignore:
