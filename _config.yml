@@ -85,7 +85,10 @@ about: true
 # blog: true
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
+
+# if you don't need research, comment the *research* configs below
+research: true
 
 # do you want to show the "read time" of the posts?
 # read-time: true
